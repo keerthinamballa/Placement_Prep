@@ -1,5 +1,5 @@
-Find a triplet that sum to a given value
-Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == target
+//Find a triplet that sum to a given value
+//Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == target
 
 
 vector<vector<int>> triplets(vector<int>& nums, int target){
